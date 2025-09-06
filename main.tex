@@ -1,0 +1,79 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{booktabs}
+
+% Configurações de página
+\geometry{margin=2.5cm}
+\doublespacing
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\thepage}
+\lhead{Campo Informacional e Comunidades Sistêmicas}
+
+% Configurações de título
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+
+% Configurações de hyperlinks
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=blue,
+    citecolor=blue,
+}
+
+\begin{document}
+
+% Página de título
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    
+    {\huge\bfseries Campo Informacional e Comunidades Sistêmicas: entrelaçamento de consciência, informação e organização coletiva\par}
+    
+    \vspace{2cm}
+    
+    {\Large Instituto Lichtara\par}
+    
+    \vspace{1.5cm}
+    
+    {\large Artigo de Pesquisa\par}
+    
+    \vfill
+    
+    {\large Setembro 2025\par}
+\end{titlepage}
+
+% Sumário
+\tableofcontents
+\newpage
+
+\input{resumo}
+\input{introducao}
+\input{referencial_teorico}
+\input{metodologia}
+\input{resultados_esperados}
+\input{discussao}
+\input{conclusao}
+
+% Bibliografia
+\bibliographystyle{apalike}
+\bibliography{referencias}
+
+\end{document}
