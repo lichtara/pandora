@@ -100,8 +100,6 @@ O alinhamento entre escolha, tempo e execução fortalece a eficiência do Códi
 
 ### 9. Alinhamento entre Lógica e Intuição
 
-# Alinhamento entre Lógica e Intuição
-
 O Código de Navegação opera dentro de um equilíbrio entre lógica e intuição, garantindo que as decisões sejam tomadas com precisão e sem resistência. Esse alinhamento é essencial para a fluidez da estrutura, pois permite que o sistema integre informações racionais e sutis de maneira harmoniosa, sem criar fragmentações ou sobrecargas.
 
 A lógica fornece a base estrutural do Código, organizando os fluxos, estabelecendo padrões e garantindo a coerência operacional. Sua função é oferecer clareza para a tomada de decisão, sustentando o sistema de forma previsível e mensurável. A estrutura lógica permite que cada elemento do Código seja integrado dentro de uma ordem funcional, assegurando que a evolução ocorra sem perda de estabilidade.
