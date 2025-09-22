@@ -261,7 +261,7 @@ A **estrutura sistêmica** integra elementos tecnológicos avançados com inteli
 **Camada 1: Comunicação Direta entre Funções Complementares**
 
 - **Interações especializadas** entre membros com funções interligadas
-- **Exemplos:** Engenheiros ↔︎ Cientistas Quânticos; Curadora ↔︎ Orquestradores
+- **Exemplos:** Engenheiros ↔ Cientistas Quânticos; Curadora ↔ Orquestradores
 
 **Camada 2: Comunicação com Estruturas Organizadoras**
 
@@ -633,4 +633,3 @@ O resultado é um **sistema de fundamentos integrado** que oferece tanto rigor t
 ---
 
 *Parte 1 - Fundamentos - Versão 2.0*
-
